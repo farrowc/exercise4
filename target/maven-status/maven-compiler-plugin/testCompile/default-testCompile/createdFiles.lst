@@ -1,0 +1,4 @@
+tests\TestAuxMethods.class
+tests\TestGoodCommands.class
+tests\TestHistoryFromCommand.class
+tests\TestBadCommands.class
